@@ -1,1 +1,3 @@
-# AV2SAD
+# AVALIAÇÃO DATA SCIENCE COM PANDAS E JUPYTER NOTEBOOK
+
+Trabalho de avaliação 
